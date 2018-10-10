@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Articulate
 
@@ -33,3 +34,7 @@ This is all based on work from the following:
 
 - [pivotal-cloud-foundry-developer](https://github.com/pivotal-education/pivotal-cloud-foundry-developer):
 - [pivotal-cloud-foundry-administrator](https://github.com/pivotal-education/pivotal-cloud-foundry-administrator)
+=======
+# articulate
+PCF Articulate 0.0.1
+>>>>>>> branch 'master' of https://github.com/inusasunny/articulate.git
